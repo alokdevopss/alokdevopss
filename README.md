@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Alok%20Ranjan&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20SRE%20Practices%20%20&descAlignY=55&descAlign=50%22%20alt=%22Header%22"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Alok%20Ranjan&fontSize=80&animation=fadeIn&fontAlignY=30&desc=Cloud%20and%20DevOps%20Engineer%20%7C%20SRE%20Practices%20%20&descAlignY=55&descAlign=50%22%20alt=%22Header%22"/>
 
 # Hi 👋 I'm Alok Ranjan
 🚀 Cloud & DevOps Engineer specializing in building scalable, secure, and automated infrastructure.
