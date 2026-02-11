@@ -24,7 +24,6 @@ Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with 
 <img src="https://komarev.com/ghpvc/?username=Abhiraj-1604&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alokdevopss/alokdevopss/output/pacman-contribution-graph.svg">
