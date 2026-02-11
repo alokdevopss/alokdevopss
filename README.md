@@ -15,8 +15,9 @@ Hi 👋 I'm Alok  <br><br>🚀 Cloud & DevOps Engineer  <br>☁️ Working with 
   <img src="https://streak-stats.demolab.com?user=alokdevopss&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-![](https://github-profile-trophy.vercel.app/?username=alokdevopss&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=alokdevopss.alokdevopss&"  />
+</div>
 
 
 <hr/>
