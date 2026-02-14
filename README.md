@@ -51,13 +51,16 @@ End-to-end deployment automation for containerized applications using Jenkins.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokranjan167/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokranjan167@gmail.com)
 
-<a href="https://www.linkedin.com/in/alokranjan167/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
-</a>
+<div style="display: flex; gap: 10px;">
+  <a href="https://www.linkedin.com/in/alokranjan167/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="mailto:alokranjan167@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
-</a>
+  <a href="mailto:alokranjan167@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+  </a>
+</div>
+
 
 
 
