@@ -42,10 +42,23 @@ End-to-end deployment automation for containerized applications using Jenkins.
 
 [![AWS](https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/59f6d02c-c333-4ffa-9990-d566a3c5e780/public_url)
 
+<a href="https://www.credly.com/badges/59f6d02c-c333-4ffa-9990-d566a3c5e780/public_url" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alokranjan167/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alokranjan167@gmail.com)
+
+<a href="https://www.linkedin.com/in/alokranjan167/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:alokranjan167@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
+</a>
+
 
 
 💡 *I am passionate about building reliable distributed systems and continuously improving infrastructure through automation and best DevOps practices.*
